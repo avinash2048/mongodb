@@ -1,0 +1,6 @@
+pandas
+seaborn
+matplotlib
+sqlalchemy
+pymongo  (mongo engine)
+psycopg2  (postgresql engine)
